@@ -1,14 +1,12 @@
 # SQL Practice
 
-My daily SQL learning journey toward data engineering.
+My daily SQL practice, exercises, and data engineering journey.
 
 ## Topics
 - SELECT and WHERE
 - Aggregation
-- JOINs
+- INNER JOIN and LEFT JOIN
 - Subqueries
 
-## Daily Progress
-| Date | Topic | Platform |
-|------|-------|----------|
-| 2026-10-24 | SELECT and WHERE | HackerRank |
+## Goal
+Build strong SQL skills for data analysis and data engineering.
